@@ -1,0 +1,10 @@
+*.iml
+.idea
+.nrepl-port
+.projectile
+.shadow-cljs
+pom.xml
+yarn-error.log
+node_modules
+public/js/compiled
+
